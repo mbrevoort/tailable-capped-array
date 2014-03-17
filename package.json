@@ -1,6 +1,6 @@
 {
   "name": "tailable-capped-array",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A capped array that supports tailable streams",
   "main": "index.js",
   "scripts": {
