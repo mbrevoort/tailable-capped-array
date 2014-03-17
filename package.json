@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": "",
+  "repository": "git@github.com:mbrevoort/tailable-capped-array.git",
   "author": "Mike Brevoort <mike@brevoort.com>",
   "license": "MIT",
   "devDependencies": {
