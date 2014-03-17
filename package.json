@@ -1,0 +1,15 @@
+{
+  "name": "tailable-capped-array",
+  "version": "0.0.0",
+  "description": "A capped array that supports tailable streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "Mike Brevoort <mike@brevoort.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "1.18.*"
+  }
+}
