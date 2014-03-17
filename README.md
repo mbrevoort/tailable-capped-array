@@ -42,6 +42,8 @@ pull request.
     arr.destroy();
 
 
+## API
+
 #### new TCA(size)
 
 Create a new capped array with `size`
